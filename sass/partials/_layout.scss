@@ -8,3 +8,19 @@ section.intro, section.features-extra, section.rsvp {
 section.features, section.events, section.blog {
 	background: $section-dark;
 }
+.dropdown-menu{
+	background-color: transparent;
+	border: transparent;
+	border: none;
+}
+.dropdown-menu .dropdown-item > li > a:hover {
+	background-image: none;
+	
+	background-color: #000!important;
+}
+.navbar {
+	background: none;
+}
+.dropdown-content a:hover {
+	background-color: transparent;
+}
