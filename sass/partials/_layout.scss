@@ -72,3 +72,16 @@ section.features, section.events, section.blog {
     -moz-border-radius:6px 0 6px 6px;
     border-radius:6px 0 6px 6px;
 }
+
+/* Top right text */
+.top-right {
+	position: absolute;
+	top: 110px;
+	right: 16px;
+	color: chocolate;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
