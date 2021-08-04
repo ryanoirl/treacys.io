@@ -515,3 +515,7 @@ var MD5 = function (string) {
 
     return temp.toLowerCase();
 };
+
+$(document).ready(function(){
+    $("#myModal").modal('show');
+});
