@@ -26,7 +26,7 @@ section.features, section.events, section.blog {
 // 	color: white !important;
 // }
 .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
-    max-height: 480px !important;
+    max-height: 440px !important;
 }
 .dropdown-content a:hover {
 	background-color: transparent;
@@ -76,12 +76,12 @@ section.features, section.events, section.blog {
 /* Top right text */
 .top-right {
 	position: absolute;
-	top: 150;
+	top: 110px;
 	right: 16px;
 	color: chocolate;
 }
 
 .center {
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
