@@ -519,3 +519,7 @@ var MD5 = function (string) {
 $(document).ready(function(){
     $("#myModal").modal('show');
 });
+
+$('.menu-item').on('click',function() {
+    $('.navbar-collapse').collapse('hide');
+});
